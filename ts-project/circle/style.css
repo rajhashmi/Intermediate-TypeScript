@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  .circle {
+    position: absolute;
+    border-radius: 50%;
+    border: 3px solid white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
